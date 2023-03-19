@@ -5,4 +5,4 @@ System.out.print("Hiep is a Software Developer and a Demon Necromancer");
 ```
 - [ ] Remember to rest.
 - [ ] Remember to share your happiness with the world.
-- [ ] Remember that your family, friends and the universe has your back.
+- [ ] Remember that your family, friends and the universe have your back.
